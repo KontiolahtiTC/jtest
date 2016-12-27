@@ -1,1 +1,3 @@
-kuvitellaan, että tämä on uutta koodia.
+Oletetaan, että tämä on uutta koodia.
+
+Jota on sitten vahan paranneltukin.
